@@ -31,3 +31,6 @@ print(Object.freqAll())
 
 print("It appears ", Object.freqOf("Lorem"))
 
+
+
+
